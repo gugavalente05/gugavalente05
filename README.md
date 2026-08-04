@@ -14,30 +14,30 @@
 <h2 align="center">🚀 dropaí</h2>
 
 <p align="center">
-  <strong>Plataforma em produção, em desenvolvimento ativo.</strong><br/>
-  Meu principal projeto — construído e mantido por mim, no ar hoje.
+  <strong>Live in production, under active development.</strong><br/>
+  My main project — built and maintained by me and a fellow developer.
 </p>
 
 <p align="center">
   <a href="https://dropai-smh.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Acessar%20o%20dropaí-00C853?style=for-the-badge&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/🔗%20Visit%20dropaí-00C853?style=for-the-badge&logoColor=white" height="45"/>
   </a>
 </p>
 
 <p align="center">
-  <em>Código privado. Documentação técnica e capturas de tela em breve.</em>
+  <em>Source code is private. Technical write-up and screenshots coming soon.</em>
 </p>
 
 ---
 
-### 👨🏽‍💻 Sobre mim
+### 👨🏽‍💻 About me
 
-- 💻 Estudante de Ciência da Computação na **PUC-Rio** (6º período)
-- 📊 Interessado em **dados, backend e sistemas**
-- 🛠️ Construindo o **[dropaí](https://dropai-smh.com.br)** — do backend ao deploy
-- 📫 Contato: **gugavalente05@gmail.com**
+- 💻 Computer Science undergraduate at **PUC-Rio** (6th semester)
+- 📊 Interested in **data, backend and systems**
+- 🛠️ Currently building **[dropaí](https://dropai-smh.com.br)** with a fellow developer — from backend to deployment
+- 📫 Reach me at: **gugavalente05@gmail.com**
 
-### 🧰 Tecnologias
+### 🧰 Tech Stack
 
 <div align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
